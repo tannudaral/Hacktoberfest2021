@@ -34,12 +34,12 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 - Clone on your local machine
 
 ```
-git clone https://github.com/fineanmol/Hacktoberfest2k21.git
+git clone https://github.com/fineanmol/Hacktoberfest2021.git
 
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest2k21
+cd Hacktoberfest2021
 ```
 
 - Create a new branch
